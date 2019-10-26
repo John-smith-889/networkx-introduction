@@ -16,3 +16,5 @@ Content below is based on very good NetworkX documentation where you can go deep
 7. Graphs I/O in GML format
 
 Blogpost version of this notebook: [link](https://john-smith-889.github.io/blog/social%20network%20analysis/social-network-analysis-introduction-to-networkx.html)
+
+Notebook in nbviewer: [link] https://nbviewer.jupyter.org/github/John-smith-889/networkx-introduction/blob/master/networkx_introduction.ipynb)
